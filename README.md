@@ -15,7 +15,8 @@ When you will open your file it will ask you to add a timer
 Add the time you want to see your files and it will automatically hide the folder after that time
 NOTE : THE TIME IS IN SECONDS
 --------------------------------------
-
 All the files and the code is developed by AXAradhya 
-©AXAradhya 
-#Aradhya_Joshi
+
+ ©AXAradhya 
+ 
+ #Aradhya_Joshi
